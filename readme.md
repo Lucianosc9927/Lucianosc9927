@@ -18,3 +18,15 @@
     <li>Udemy, JavaScript Moderno Guía Definitiva Construye +20 Proyectos</li>
     <li>Udemy, CSS La Guía Completa - Flexbox, CSS Grid, SASS</li>
 </ul>
+
+
+<h3>Ingenieria en Informatica, Universidad Nacional Arturo Jauretche</h3> 
+<p>Asignaturas de programación cursadas.</p>
+<ul>
+    <li>Fundamentos de la programación</li>
+    <li>Algoritmos y programación</li>
+    <li>Metodologias de la programación 1</li>
+    <li>Metodologias de la programación 2</li>
+    <li>Bases de datos 1</li>
+    <li>Estructuras de datos, complejidad temporal y algoritmos</li>
+</ul>
