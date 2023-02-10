@@ -5,7 +5,7 @@
     soy Scollo Luciano
 </h1>
 <h2>Desarrollador Web Frontend, de Argentina</h2>
-<h3>Cursos Finalizados</h3>
+<h3 style="font-weight: bold;">Cursos Finalizados</h3>
 <ul>
     <li>Argentina Programa, Fundamentos de programación.</li>
     <li>SoloLearn, curso HTML</li>
@@ -13,7 +13,7 @@
     <li>UNAJ, Taller de GIT</li>
     
 </ul>
-<h3>Cursos en proceso</h3>
+<h3 style="font-weight: bold;">Cursos en proceso</h3>
 <ul>
     <li>Udemy, Desarrollo Web Completo con HTML5, CSS3, JS...</li>
     <li>Udemy, JavaScript Moderno Guía Definitiva Construye +20 Proyectos</li>
@@ -21,7 +21,7 @@
 </ul>
 
 
-<h3>Ingenieria en Informatica, Universidad Nacional Arturo Jauretche</h3> 
+<h3 style="font-weight: bold;">Ingenieria en Informatica, Universidad Nacional Arturo Jauretche</h3> 
 <p>Asignaturas de programación cursadas.</p>
 <ul>
     <li>Fundamentos de la programación</li>
@@ -32,6 +32,7 @@
     <li>Estructuras de datos, complejidad temporal y algoritmos</li>
 </ul>
 
+<h2>Lenguajes y herramientas</h2>
 <p align="left" dir="auto">
     <a href="https://html.spec.whatwg.org/multipage/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="40" height="40" style="max-width: 100%;"> </a>
