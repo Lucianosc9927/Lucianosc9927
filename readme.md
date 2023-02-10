@@ -1,9 +1,10 @@
+
 <h1>
     Hola,
     <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
     soy Scollo Luciano
 </h1>
-<p>Desarrollador Web Frontend, de Argentina</p>
+<h2>Desarrollador Web Frontend, de Argentina</h2>
 <h3>Cursos Finalizados</h3>
 <ul>
     <li>Argentina Programa, Fundamentos de programación.</li>
@@ -30,3 +31,12 @@
     <li>Bases de datos 1</li>
     <li>Estructuras de datos, complejidad temporal y algoritmos</li>
 </ul>
+
+<p align="left" dir="auto">
+    <a href="https://html.spec.whatwg.org/multipage/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://sass-lang.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://www.javascript.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://www.python.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+  </p>
